@@ -17,8 +17,8 @@ To run this script, ensure you have the following installed:
 - **Matplotlib:** For plotting results.
 - **GLPK (GNU Linear Programming Kit):** As the linear solver.
 
-Install all the required Python packages using the following command:
-pip install pandas numpy pyomo matplotlib
+Install all the required Python packages using the following command: `pip install pandas numpy pyomo matplotlib`
+
 
 
 ## Usage
